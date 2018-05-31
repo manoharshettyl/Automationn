@@ -11,5 +11,9 @@ public class Jenkins {
 		System.out.println("Hi");
 	}
 	
-
+@Test
+public void man()
+{
+	
+}
 }
